@@ -13,8 +13,8 @@
 
         body {
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            color: #333;
+            background: #0a0e27;
+            color: #e4e7eb;
             padding: 20px;
             min-height: 100vh;
         }
@@ -22,43 +22,51 @@
         .container {
             max-width: 1600px;
             margin: 0 auto;
-            background: white;
+            background: #141829;
             border-radius: 20px;
-            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            box-shadow: 0 20px 60px rgba(0,0,0,0.5);
             overflow: hidden;
+            border: 1px solid #1f2437;
         }
 
         .header {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            background: linear-gradient(135deg, #1a1d2e 0%, #16213e 100%);
             color: white;
             padding: 40px;
             text-align: center;
             position: relative;
+            border-bottom: 2px solid #00d4ff;
         }
 
         .header h1 {
             font-size: 2.5em;
             margin-bottom: 10px;
             font-weight: 700;
+            background: linear-gradient(135deg, #00d4ff 0%, #00ffb3 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
         }
 
         .header p {
             font-size: 1.1em;
-            opacity: 0.9;
+            opacity: 0.8;
+            color: #b4b9c5;
         }
 
         .cycle-selector {
             position: absolute;
             top: 40px;
             right: 40px;
-            background: rgba(255,255,255,0.95);
+            background: rgba(0, 212, 255, 0.1);
             padding: 12px 20px;
             border-radius: 10px;
-            box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+            border: 1px solid #00d4ff;
+            backdrop-filter: blur(10px);
         }
 
         .cycle-selector label {
-            color: #667eea;
+            color: #00d4ff;
             font-weight: 600;
             margin-right: 10px;
             font-size: 0.9em;
@@ -66,24 +74,24 @@
 
         .cycle-selector select {
             padding: 8px 15px;
-            border: 2px solid #667eea;
+            border: 2px solid #00d4ff;
             border-radius: 8px;
             font-size: 1em;
             font-weight: 600;
-            color: #667eea;
+            color: #00d4ff;
             cursor: pointer;
-            background: white;
+            background: #1a1d2e;
             transition: all 0.3s;
         }
 
         .cycle-selector select:hover {
-            border-color: #764ba2;
-            color: #764ba2;
+            border-color: #00ffb3;
+            color: #00ffb3;
         }
 
         .cycle-selector select:focus {
             outline: none;
-            box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.2);
+            box-shadow: 0 0 0 3px rgba(0, 212, 255, 0.2);
         }
 
         .content {
@@ -92,41 +100,50 @@
 
         .metrics-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
             gap: 20px;
             margin-bottom: 40px;
         }
 
         .metric-card {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            background: linear-gradient(135deg, #1f2437 0%, #1a1d2e 100%);
             color: white;
             padding: 30px;
             border-radius: 15px;
-            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
-            transition: transform 0.3s;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+            border: 1px solid #2a2f45;
+            transition: all 0.3s;
         }
 
         .metric-card:hover {
             transform: translateY(-5px);
+            border-color: #00d4ff;
+            box-shadow: 0 8px 25px rgba(0, 212, 255, 0.15);
         }
 
         .metric-card h3 {
             font-size: 0.9em;
-            opacity: 0.9;
+            opacity: 0.7;
             margin-bottom: 10px;
             text-transform: uppercase;
             letter-spacing: 1px;
+            color: #b4b9c5;
         }
 
         .metric-card .value {
             font-size: 3em;
             font-weight: 700;
             margin-bottom: 5px;
+            background: linear-gradient(135deg, #00d4ff 0%, #00ffb3 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
         }
 
         .metric-card .subvalue {
             font-size: 0.95em;
-            opacity: 0.9;
+            opacity: 0.7;
+            color: #9ca3af;
         }
 
         .section {
@@ -136,21 +153,22 @@
         .section h2 {
             font-size: 1.8em;
             margin-bottom: 25px;
-            color: #667eea;
-            border-bottom: 3px solid #667eea;
+            color: #00d4ff;
+            border-bottom: 2px solid #00d4ff;
             padding-bottom: 10px;
         }
 
         .bar-chart {
-            background: #f8f9fa;
+            background: #1a1d2e;
             padding: 30px;
             border-radius: 15px;
             margin-bottom: 30px;
+            border: 1px solid #2a2f45;
         }
 
         .bar-chart h3 {
             margin-bottom: 20px;
-            color: #333;
+            color: #e4e7eb;
             font-size: 1.3em;
         }
 
@@ -164,14 +182,16 @@
             margin-bottom: 5px;
             font-size: 0.95em;
             font-weight: 600;
+            color: #b4b9c5;
         }
 
         .bar-bg {
-            background: #e0e0e0;
+            background: #0a0e27;
             height: 30px;
             border-radius: 15px;
             overflow: hidden;
             position: relative;
+            border: 1px solid #1f2437;
         }
 
         .bar-fill {
@@ -187,37 +207,37 @@
         }
 
         .bar-fill.green {
-            background: linear-gradient(90deg, #28a745 0%, #20c997 100%);
+            background: linear-gradient(90deg, #00ffb3 0%, #00d4aa 100%);
         }
 
         .bar-fill.orange {
-            background: linear-gradient(90deg, #fd7e14 0%, #ffc107 100%);
+            background: linear-gradient(90deg, #ff9500 0%, #ffb800 100%);
         }
 
         .bar-fill.blue {
-            background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
+            background: linear-gradient(90deg, #00d4ff 0%, #0099ff 100%);
         }
 
         .table-container {
             overflow-x: auto;
-            background: #f8f9fa;
+            background: #1a1d2e;
             border-radius: 15px;
             padding: 25px;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
             margin-bottom: 30px;
+            border: 1px solid #2a2f45;
         }
 
         table {
             width: 100%;
             border-collapse: collapse;
-            background: white;
+            background: #141829;
             border-radius: 10px;
             overflow: hidden;
         }
 
         thead {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            color: white;
+            background: linear-gradient(135deg, #1f2437 0%, #16213e 100%);
+            color: #00d4ff;
         }
 
         th {
@@ -231,11 +251,12 @@
 
         td {
             padding: 15px;
-            border-bottom: 1px solid #e0e0e0;
+            border-bottom: 1px solid #1f2437;
+            color: #e4e7eb;
         }
 
         tbody tr:hover {
-            background: #f5f5f5;
+            background: #1a1d2e;
         }
 
         tbody tr:last-child td {
@@ -252,7 +273,7 @@
         .loading {
             text-align: center;
             padding: 40px;
-            color: #666;
+            color: #b4b9c5;
         }
 
         @media (max-width: 768px) {
@@ -309,7 +330,6 @@
                 const data = await response.json();
                 currentData = data;
                 
-                // Update cycle info
                 const cycleName = data[0] ? data[0]['Cycle Name'] : selectedCycle.replace('cycle', 'Cycle ');
                 document.getElementById('cycle-info').textContent = `${cycleName} · Tech Team Performance`;
                 
@@ -317,7 +337,7 @@
             } catch (error) {
                 console.error('Error loading data:', error);
                 document.getElementById('content').innerHTML = `
-                    <p class="loading" style="color: #dc3545;">
+                    <p class="loading" style="color: #ff6b6b;">
                         ❌ Error loading ${selectedCycle} data. Make sure the JSON file is uploaded to GitHub.
                     </p>
                 `;
@@ -328,10 +348,8 @@
             const metrics = {
                 totalIssues: currentData.length,
                 completedIssues: 0,
-                inProgressIssues: 0,
                 totalPoints: 0,
-                completedPoints: 0,
-                inProgressPoints: 0
+                completedPoints: 0
             };
 
             const engineerStats = {};
@@ -368,9 +386,6 @@
                 if (status === 'Done') {
                     metrics.completedIssues++;
                     metrics.completedPoints += points;
-                } else if (status === 'In Progress') {
-                    metrics.inProgressIssues++;
-                    metrics.inProgressPoints += points;
                 }
 
                 metrics.totalPoints += points;
@@ -495,11 +510,6 @@
                         <div class="subvalue">${completionRate}% of total</div>
                     </div>
                     <div class="metric-card">
-                        <h3>⚡ In Progress</h3>
-                        <div class="value">${metrics.inProgressIssues} tickets</div>
-                        <div class="subvalue">${metrics.inProgressPoints} points</div>
-                    </div>
-                    <div class="metric-card">
                         <h3>🎯 Total Points</h3>
                         <div class="value">${metrics.totalPoints}</div>
                         <div class="subvalue">In sprint</div>
@@ -581,7 +591,6 @@
             document.getElementById('content').innerHTML = html;
         }
 
-        // Load default cycle on page load
         window.addEventListener('load', loadCycleData);
     </script>
 </body>
