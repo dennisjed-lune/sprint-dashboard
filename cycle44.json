@@ -1,0 +1,1802 @@
+[
+    {
+        "ID": "TECH-6161",
+        "Title": "[FE]: Have Arabic Brand Name in LH transactions view tab",
+        "Status": "Ready for QA",
+        "Estimate": "1.0",
+        "Priority": "High",
+        "Assignee": "amiyo@lunedata.io",
+        "Labels": "FE",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6160",
+        "Title": "[BE] : Support Ticket (/api/v3/analytics/tenant_customers/spend/summary)",
+        "Status": "Ready for QA",
+        "Estimate": "1.0",
+        "Priority": "Medium",
+        "Assignee": "waleed@lunedata.io",
+        "Labels": "support, v3",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6159",
+        "Title": "[BE] : Support Request - `api/v3/analytics/categories/spend` returns nothing",
+        "Status": "Ready for QA",
+        "Estimate": "1.0",
+        "Priority": "High",
+        "Assignee": "waleed@lunedata.io",
+        "Labels": "support, v3",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6006",
+        "Title": "Budget Category Limit Input Enhancement",
+        "Status": "Ready for QA",
+        "Estimate": "3.0",
+        "Priority": "Low",
+        "Assignee": "rana@lunedata.io",
+        "Labels": "Android, Mobile",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-5879",
+        "Title": "Build FastAPI",
+        "Status": "In Review",
+        "Estimate": "5.0",
+        "Priority": "No priority",
+        "Assignee": "raghad@lunedata.io",
+        "Labels": "AI",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6040",
+        "Title": "ERD: AMEX - Petrol/Wagyu - Exact Match Implementation",
+        "Status": "In Review",
+        "Estimate": "2.0",
+        "Priority": "High",
+        "Assignee": "dmitry@lunedata.io",
+        "Labels": "BE",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6111",
+        "Title": "Create Ajman Insertion Pipeline",
+        "Status": "In Review",
+        "Estimate": "1.0",
+        "Priority": "High",
+        "Assignee": "mohamed.bakr@lunedata.io",
+        "Labels": "Devops",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-5910",
+        "Title": "Application Metrics Configuration [Uno & ADIB]",
+        "Status": "In Review",
+        "Estimate": "",
+        "Priority": "No priority",
+        "Assignee": "eslam@lunedata.io",
+        "Labels": "BE",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-5913",
+        "Title": "Phase 2: Jenkins & Kafka integration (Step 2)",
+        "Status": "In Review",
+        "Estimate": "",
+        "Priority": "No priority",
+        "Assignee": "eslam@lunedata.io",
+        "Labels": "BE",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6117",
+        "Title": "ERD: Location-based enrichment",
+        "Status": "In Review",
+        "Estimate": "3.0",
+        "Priority": "No priority",
+        "Assignee": "waleed@lunedata.io",
+        "Labels": "BE, ERD",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-5594",
+        "Title": "[BE][ADIB] : Refactor insertion tasks",
+        "Status": "In Review",
+        "Estimate": "3.0",
+        "Priority": "No priority",
+        "Assignee": "eslam@lunedata.io",
+        "Labels": "ADIB, BE, Improvement",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-5999",
+        "Title": "Staging AKS: review, validation and enhancements.",
+        "Status": "In Review",
+        "Estimate": "",
+        "Priority": "High",
+        "Assignee": "ibrahim@lunedata.io",
+        "Labels": "Devops",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-4595",
+        "Title": "Create Jenkins pipeline for old files deletion in SFTP servers.",
+        "Status": "In Review",
+        "Estimate": "1.0",
+        "Priority": "No priority",
+        "Assignee": "ibrahim@lunedata.io",
+        "Labels": "Devops",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-5911",
+        "Title": "[Uno] Application Metrics Configuration",
+        "Status": "In Review",
+        "Estimate": "",
+        "Priority": "No priority",
+        "Assignee": "eslam@lunedata.io",
+        "Labels": "Uno, BE",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6103",
+        "Title": "LE: Investigate the current state of enrichment location mapping",
+        "Status": "In Review",
+        "Estimate": "2.0",
+        "Priority": "No priority",
+        "Assignee": "waleed@lunedata.io",
+        "Labels": "BE",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-5977",
+        "Title": "Sidekiq: ActiveRecord::RecordNotUnique: PG::UniqueViolation",
+        "Status": "In Review",
+        "Estimate": "3.0",
+        "Priority": "Urgent",
+        "Assignee": "waleed@lunedata.io",
+        "Labels": "BE, Bug",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-5852",
+        "Title": "Centralized Observability - ERD",
+        "Status": "In Review",
+        "Estimate": "2.0",
+        "Priority": "No priority",
+        "Assignee": "ibrahim@lunedata.io",
+        "Labels": "Devops, ERD",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-5770",
+        "Title": "ERD: Location/Payment Provider logic cleanup",
+        "Status": "In Review",
+        "Estimate": "3.0",
+        "Priority": "No priority",
+        "Assignee": "waleed@lunedata.io",
+        "Labels": "BE, ERD",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-5725",
+        "Title": "Dynamic branch based environment - [ERD]",
+        "Status": "In Review",
+        "Estimate": "1.0",
+        "Priority": "No priority",
+        "Assignee": "ibrahim@lunedata.io",
+        "Labels": "Devops, ERD",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-4658",
+        "Title": "Fix missing brand logos",
+        "Status": "In Review",
+        "Estimate": "2.0",
+        "Priority": "No priority",
+        "Assignee": "dmitry@lunedata.io",
+        "Labels": "Brand Data, BE",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-2841",
+        "Title": "category image not shown on mobile when no brand",
+        "Status": "In Review",
+        "Estimate": "1.0",
+        "Priority": "No priority",
+        "Assignee": "rana@lunedata.io",
+        "Labels": "Android, Mobile",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-5647",
+        "Title": "CBD SFTP Testing",
+        "Status": "Blocked",
+        "Estimate": "2.0",
+        "Priority": "High",
+        "Assignee": "mohamed.bakr@lunedata.io",
+        "Labels": "Devops",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-4969",
+        "Title": "OCI Migration technical discussions",
+        "Status": "Blocked",
+        "Estimate": "1.0",
+        "Priority": "No priority",
+        "Assignee": "ibrahim@lunedata.io",
+        "Labels": "Devops",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6102",
+        "Title": "[QA][ETC] Metered Billing MVP features regression testing on staging (UAE)",
+        "Status": "Blocked",
+        "Estimate": "2.0",
+        "Priority": "No priority",
+        "Assignee": "radwa@lunedata.io",
+        "Labels": "QA",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-3754",
+        "Title": "[QA][ETC][Android] : Chatbot Voice session",
+        "Status": "Blocked",
+        "Estimate": "3.0",
+        "Priority": "No priority",
+        "Assignee": "radwa@lunedata.io",
+        "Labels": "QA",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-3928",
+        "Title": "Recording stops when user pauses speaking, even though the voice icon is still being pressed",
+        "Status": "Blocked",
+        "Estimate": "",
+        "Priority": "No priority",
+        "Assignee": "rana@lunedata.io",
+        "Labels": "Mobile",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-1960",
+        "Title": "automate the feedback correction using jenkins",
+        "Status": "Blocked",
+        "Estimate": "",
+        "Priority": "Medium",
+        "Assignee": "saad@lunedata.io",
+        "Labels": "",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6223",
+        "Title": "Lunehub: change enrichment icon on sidebar",
+        "Status": "In Progress",
+        "Estimate": "",
+        "Priority": "No priority",
+        "Assignee": "amiyo@lunedata.io",
+        "Labels": "FE",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6030",
+        "Title": "Promote Metered billing MVP features to Production",
+        "Status": "In Progress",
+        "Estimate": "3.0",
+        "Priority": "No priority",
+        "Assignee": "kareem@lunedata.io",
+        "Labels": "BE",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6150",
+        "Title": "Arabic>Incorrect Bidirectional text concatenation.",
+        "Status": "In Progress",
+        "Estimate": "2.0",
+        "Priority": "High",
+        "Assignee": "ghufran@lunedata.io",
+        "Labels": "AI",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-5692",
+        "Title": "DS: Allow ignoring certaint clean descriptions",
+        "Status": "In Progress",
+        "Estimate": "2.0",
+        "Priority": "No priority",
+        "Assignee": "dmitry@lunedata.io",
+        "Labels": "BE",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6219",
+        "Title": "[QA] : Support Ticket (/api/v3/analytics/tenant_customers/spend/summary)",
+        "Status": "In Progress",
+        "Estimate": "1.0",
+        "Priority": "Medium",
+        "Assignee": "medhat@lunedata.io",
+        "Labels": "",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6135",
+        "Title": "Create CBD Insertion Pipeline",
+        "Status": "In Progress",
+        "Estimate": "2.0",
+        "Priority": "High",
+        "Assignee": "mohamed.bakr@lunedata.io",
+        "Labels": "Devops",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6108",
+        "Title": "DevOps Adhoc tasks - Cycle 44",
+        "Status": "In Progress",
+        "Estimate": "2.0",
+        "Priority": "High",
+        "Assignee": "ibrahim@lunedata.io",
+        "Labels": "Devops",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-4654",
+        "Title": "Synchronous DB Operations (I/O Blocking) : Convert Synchronous Database Operations to Async",
+        "Status": "In Progress",
+        "Estimate": "3.0",
+        "Priority": "No priority",
+        "Assignee": "ghufran@lunedata.io",
+        "Labels": "AI",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6072",
+        "Title": "[QA][Support] : Support the whole team with urgent requests",
+        "Status": "In Progress",
+        "Estimate": "5.0",
+        "Priority": "No priority",
+        "Assignee": "radwa@lunedata.io",
+        "Labels": "QA",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6067",
+        "Title": "DevOps Adhoc tasks - Cycle 44",
+        "Status": "In Progress",
+        "Estimate": "",
+        "Priority": "High",
+        "Assignee": "mohamed.bakr@lunedata.io",
+        "Labels": "Devops",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6065",
+        "Title": "Chatbot Visual Charts",
+        "Status": "In Progress",
+        "Estimate": "5.0",
+        "Priority": "Medium",
+        "Assignee": "rana@lunedata.io",
+        "Labels": "Android, Mobile",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6003",
+        "Title": "Change fields to required in Lune Docs",
+        "Status": "In Progress",
+        "Estimate": "",
+        "Priority": "No priority",
+        "Assignee": "ahmedelzubair@lunedata.io",
+        "Labels": "FE",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-5987",
+        "Title": "Handle perf. reviews",
+        "Status": "In Progress",
+        "Estimate": "2.0",
+        "Priority": "No priority",
+        "Assignee": "dmitry@lunedata.io",
+        "Labels": "BE",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-5844",
+        "Title": "Centralized Observability \u2014 Multi-Cloud K8s",
+        "Status": "In Progress",
+        "Estimate": "",
+        "Priority": "High",
+        "Assignee": "ibrahim@lunedata.io",
+        "Labels": "Devops",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-4968",
+        "Title": "CBD file processing support",
+        "Status": "In Progress",
+        "Estimate": "2.0",
+        "Priority": "High",
+        "Assignee": "mohamed.bakr@lunedata.io",
+        "Labels": "Devops",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-5606",
+        "Title": "DevOps Refactoring of Multi-env deployment",
+        "Status": "In Progress",
+        "Estimate": "",
+        "Priority": "No priority",
+        "Assignee": "ibrahim@lunedata.io",
+        "Labels": "Devops",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-4258",
+        "Title": "Chatbot Visual Charts",
+        "Status": "In Progress",
+        "Estimate": "8.0",
+        "Priority": "High",
+        "Assignee": "eslam.ali@lunedata.io",
+        "Labels": "iOS, Mobile",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-4619",
+        "Title": "Lune AI Agent - Architecture Enhancements",
+        "Status": "In Progress",
+        "Estimate": "",
+        "Priority": "No priority",
+        "Assignee": "ghufran@lunedata.io",
+        "Labels": "AI",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-2562",
+        "Title": "Migration final steps - validate vacuum & cleanup jobs work",
+        "Status": "In Progress",
+        "Estimate": "",
+        "Priority": "High",
+        "Assignee": "saad@lunedata.io",
+        "Labels": "",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-2561",
+        "Title": "Migration final steps - Cleanup data for aws migration",
+        "Status": "In Progress",
+        "Estimate": "",
+        "Priority": "High",
+        "Assignee": "saad@lunedata.io",
+        "Labels": "",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6146",
+        "Title": "spaces in arabic response",
+        "Status": "Todo",
+        "Estimate": "",
+        "Priority": "High",
+        "Assignee": "ghufran@lunedata.io",
+        "Labels": "AI",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6098",
+        "Title": "DS: Trigger Crawler on PoC transactions",
+        "Status": "Todo",
+        "Estimate": "2.0",
+        "Priority": "No priority",
+        "Assignee": "dmitry@lunedata.io",
+        "Labels": "",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6021",
+        "Title": "UAE SFTP cleanup - pipeline",
+        "Status": "Todo",
+        "Estimate": "",
+        "Priority": "No priority",
+        "Assignee": "ibrahim@lunedata.io",
+        "Labels": "Devops",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-5979",
+        "Title": "LE: Drop no longer used cron/scheduled jobs",
+        "Status": "Todo",
+        "Estimate": "1.0",
+        "Priority": "No priority",
+        "Assignee": "eslam@lunedata.io",
+        "Labels": "BE",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-5925",
+        "Title": "Task 2.3 \u2014 Grafana dashboard: Jenkins & Kafka metrics",
+        "Status": "Todo",
+        "Estimate": "3.0",
+        "Priority": "No priority",
+        "Assignee": "eslam@lunedata.io",
+        "Labels": "BE, Task",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-5924",
+        "Title": "Task 2.2 \u2014 Prometheus scrape config for Kafka",
+        "Status": "Todo",
+        "Estimate": "2.0",
+        "Priority": "No priority",
+        "Assignee": "eslam@lunedata.io",
+        "Labels": "BE, Task",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-5923",
+        "Title": "Task 2.1 \u2014 Prometheus scrape config for Jenkins",
+        "Status": "Todo",
+        "Estimate": "2.0",
+        "Priority": "No priority",
+        "Assignee": "eslam@lunedata.io",
+        "Labels": "BE, Task",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-5898",
+        "Title": "Add Country and City Fields to Enriched Transaction Response",
+        "Status": "Todo",
+        "Estimate": "",
+        "Priority": "Medium",
+        "Assignee": "",
+        "Labels": "FeatureRequest",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-5859",
+        "Title": "Be Support Week 2",
+        "Status": "Todo",
+        "Estimate": "",
+        "Priority": "Urgent",
+        "Assignee": "dmitry@lunedata.io",
+        "Labels": "BE",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-5813",
+        "Title": "[Bugs] : Residual Bugs",
+        "Status": "Todo",
+        "Estimate": "",
+        "Priority": "No priority",
+        "Assignee": "",
+        "Labels": "Bug",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-4852",
+        "Title": "[Production] [ADIB] git branches unification",
+        "Status": "Todo",
+        "Estimate": "5.0",
+        "Priority": "No priority",
+        "Assignee": "eslam@lunedata.io",
+        "Labels": "ADIB, BE",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-5651",
+        "Title": "DevOps implementation of MENV-ERD",
+        "Status": "Todo",
+        "Estimate": "1.0",
+        "Priority": "No priority",
+        "Assignee": "ibrahim@lunedata.io",
+        "Labels": "Devops",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-5645",
+        "Title": "Implement Prometheus/Grafana monitoring for Gateway API metrics",
+        "Status": "Todo",
+        "Estimate": "1.0",
+        "Priority": "High",
+        "Assignee": "ibrahim@lunedata.io",
+        "Labels": "Devops",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-3161",
+        "Title": "Transactions becomes reported when adding NOTES or TAGS",
+        "Status": "Todo",
+        "Estimate": "",
+        "Priority": "No priority",
+        "Assignee": "saad@lunedata.io",
+        "Labels": "",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-2621",
+        "Title": "Brand Label Enrichment on API UAE LIVE",
+        "Status": "Todo",
+        "Estimate": "",
+        "Priority": "High",
+        "Assignee": "saad@lunedata.io",
+        "Labels": "Bug",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-2135",
+        "Title": "Architecture diagram for Bank integration",
+        "Status": "Todo",
+        "Estimate": "",
+        "Priority": "Urgent",
+        "Assignee": "saad@lunedata.io",
+        "Labels": "",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-1865",
+        "Title": "KSA env data preparation",
+        "Status": "Todo",
+        "Estimate": "3.0",
+        "Priority": "Medium",
+        "Assignee": "saad@lunedata.io",
+        "Labels": "",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-1866",
+        "Title": "Enrichment stress test db connection investigation FOR AWS",
+        "Status": "Todo",
+        "Estimate": "2.0",
+        "Priority": "No priority",
+        "Assignee": "saad@lunedata.io",
+        "Labels": "",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6031",
+        "Title": "PR Review",
+        "Status": "Todo",
+        "Estimate": "1.0",
+        "Priority": "No priority",
+        "Assignee": "eslam@lunedata.io",
+        "Labels": "BE",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-4798",
+        "Title": "[AI ] Charts for PFM chatbot",
+        "Status": "Done",
+        "Estimate": "",
+        "Priority": "High",
+        "Assignee": "ghufran@lunedata.io",
+        "Labels": "AI",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6034",
+        "Title": "Write ERD for Post-MVP metered billing features as shown in the PRD",
+        "Status": "Done",
+        "Estimate": "8.0",
+        "Priority": "No priority",
+        "Assignee": "kareem@lunedata.io",
+        "Labels": "ERD",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6145",
+        "Title": "[QA][IOS][FE]Retesting Chatbot Visual Charts",
+        "Status": "Done",
+        "Estimate": "3.0",
+        "Priority": "High",
+        "Assignee": "radwa@lunedata.io",
+        "Labels": "QA",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6041",
+        "Title": "[QA][ETC] : LuneHub -> feature flags",
+        "Status": "Done",
+        "Estimate": "2.0",
+        "Priority": "No priority",
+        "Assignee": "radwa@lunedata.io",
+        "Labels": "QA",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6218",
+        "Title": "convert\u00a0 model from GPU to CPU for FastAPI deployment",
+        "Status": "Done",
+        "Estimate": "2.0",
+        "Priority": "No priority",
+        "Assignee": "raghad@lunedata.io",
+        "Labels": "AI",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6086",
+        "Title": "Deploy chart rendering pipeline to internal dev environment",
+        "Status": "Done",
+        "Estimate": "2.0",
+        "Priority": "No priority",
+        "Assignee": "ghufran@lunedata.io",
+        "Labels": "AI",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6139",
+        "Title": "docs: add pos_id, pos_entry_mode to response and change ref_id status",
+        "Status": "Done",
+        "Estimate": "",
+        "Priority": "No priority",
+        "Assignee": "amiyo@lunedata.io",
+        "Labels": "",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6133",
+        "Title": "Docs: add pos_id, pos_entry_mode fields",
+        "Status": "Done",
+        "Estimate": "1.0",
+        "Priority": "Urgent",
+        "Assignee": "amiyo@lunedata.io",
+        "Labels": "Docs",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6132",
+        "Title": "Charts in the Chat History",
+        "Status": "Done",
+        "Estimate": "3.0",
+        "Priority": "No priority",
+        "Assignee": "ghufran@lunedata.io",
+        "Labels": "",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6118",
+        "Title": "[BE] : Have Arabic Brand Name in LH transactions view tab",
+        "Status": "Done",
+        "Estimate": "1.0",
+        "Priority": "High",
+        "Assignee": "waleed@lunedata.io",
+        "Labels": "FeatureRequest, BE",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6026",
+        "Title": "Promote Metered billing MVP features to Staging",
+        "Status": "Done",
+        "Estimate": "3.0",
+        "Priority": "No priority",
+        "Assignee": "kareem@lunedata.io",
+        "Labels": "BE",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6027",
+        "Title": "PR Review",
+        "Status": "Done",
+        "Estimate": "1.0",
+        "Priority": "No priority",
+        "Assignee": "eslam@lunedata.io",
+        "Labels": "BE",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6101",
+        "Title": "[QA][ETC] Metered Billing MVP features regression testing on staging (BHR)",
+        "Status": "Done",
+        "Estimate": "2.0",
+        "Priority": "No priority",
+        "Assignee": "medhat@lunedata.io",
+        "Labels": "QA",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6029",
+        "Title": "[QA][ETC] Metered Billing MVP features regression testing on staging (KSA)",
+        "Status": "Done",
+        "Estimate": "2.0",
+        "Priority": "No priority",
+        "Assignee": "radwa@lunedata.io",
+        "Labels": "QA",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6151",
+        "Title": "[QA][WTC] : Have Arabic Brand Name in LH transactions view tab",
+        "Status": "Done",
+        "Estimate": "1.0",
+        "Priority": "High",
+        "Assignee": "medhat@lunedata.io",
+        "Labels": "QA",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6134",
+        "Title": "Docs: BE support runbook",
+        "Status": "Done",
+        "Estimate": "1.0",
+        "Priority": "No priority",
+        "Assignee": "dmitry@lunedata.io",
+        "Labels": "BE, Docs",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6148",
+        "Title": "Docs: Document DS PoC Flow",
+        "Status": "Done",
+        "Estimate": "1.0",
+        "Priority": "No priority",
+        "Assignee": "dmitry@lunedata.io",
+        "Labels": "BE",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6149",
+        "Title": "Data-studio migration to staging AKS cluster",
+        "Status": "Done",
+        "Estimate": "2.0",
+        "Priority": "High",
+        "Assignee": "ibrahim@lunedata.io",
+        "Labels": "data studio, Devops",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-5779",
+        "Title": "Chatbot Loading status",
+        "Status": "Done",
+        "Estimate": "5.0",
+        "Priority": "Medium",
+        "Assignee": "rana@lunedata.io",
+        "Labels": "Android, Mobile",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-5981",
+        "Title": "[QA][Re-testing] : Chatbot loading status",
+        "Status": "Done",
+        "Estimate": "3.0",
+        "Priority": "Medium",
+        "Assignee": "radwa@lunedata.io",
+        "Labels": "QA",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6141",
+        "Title": "paste not operate on latest build",
+        "Status": "Done",
+        "Estimate": "1.0",
+        "Priority": "High",
+        "Assignee": "eslam.ali@lunedata.io",
+        "Labels": "iOS, Mobile",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6142",
+        "Title": "in voice session >Response message isn't appear when it contains chart",
+        "Status": "Done",
+        "Estimate": "1.0",
+        "Priority": "High",
+        "Assignee": "eslam.ali@lunedata.io",
+        "Labels": "iOS, Mobile",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6143",
+        "Title": "DS: Add ATM and transfer stats to clusters#show",
+        "Status": "Done",
+        "Estimate": "1.0",
+        "Priority": "No priority",
+        "Assignee": "dmitry@lunedata.io",
+        "Labels": "BE",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6144",
+        "Title": "[QA][IOS]Chatbot Visual Charts",
+        "Status": "Done",
+        "Estimate": "1.0",
+        "Priority": "High",
+        "Assignee": "radwa@lunedata.io",
+        "Labels": "QA",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6066",
+        "Title": "[Flag] Billings Exp",
+        "Status": "Done",
+        "Estimate": "1.0",
+        "Priority": "No priority",
+        "Assignee": "amiyo@lunedata.io",
+        "Labels": "FE, Feature Flag",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6115",
+        "Title": "[prod temp] sync issue on miscellaneous category",
+        "Status": "Done",
+        "Estimate": "",
+        "Priority": "No priority",
+        "Assignee": "eslam@lunedata.io",
+        "Labels": "BE",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-5915",
+        "Title": "Phase 4: Supporting & cross-cutting",
+        "Status": "Done",
+        "Estimate": "",
+        "Priority": "No priority",
+        "Assignee": "eslam@lunedata.io",
+        "Labels": "BE",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-5882",
+        "Title": "Load Trained Model and Implement Prediction Inference Pipeline",
+        "Status": "Done",
+        "Estimate": "3.0",
+        "Priority": "No priority",
+        "Assignee": "raghad@lunedata.io",
+        "Labels": "AI",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6137",
+        "Title": "Create DB Dump for Solid Cache Prod",
+        "Status": "Done",
+        "Estimate": "",
+        "Priority": "High",
+        "Assignee": "mohamed.bakr@lunedata.io",
+        "Labels": "Devops",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6136",
+        "Title": "Switch UAE Prod Temp DNS Record",
+        "Status": "Done",
+        "Estimate": "",
+        "Priority": "High",
+        "Assignee": "mohamed.bakr@lunedata.io",
+        "Labels": "Devops",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6097",
+        "Title": "DS: Trigger Crawler on PoC Clusters",
+        "Status": "Done",
+        "Estimate": "2.0",
+        "Priority": "No priority",
+        "Assignee": "dmitry@lunedata.io",
+        "Labels": "BE",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-5881",
+        "Title": "Evaluation and testing of the best model",
+        "Status": "Done",
+        "Estimate": "5.0",
+        "Priority": "No priority",
+        "Assignee": "raghad@lunedata.io",
+        "Labels": "AI",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6017",
+        "Title": "crash when copy question in chatbot history",
+        "Status": "Done",
+        "Estimate": "3.0",
+        "Priority": "Medium",
+        "Assignee": "rana@lunedata.io",
+        "Labels": "Mobile",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6063",
+        "Title": "[QA][Regression] : Regression testing on Enrichment V2 - Internal DEV",
+        "Status": "Done",
+        "Estimate": "2.0",
+        "Priority": "No priority",
+        "Assignee": "medhat@lunedata.io",
+        "Labels": "QA",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6073",
+        "Title": "[QA][Support] : Support the whole team with urgent requests",
+        "Status": "Done",
+        "Estimate": "5.0",
+        "Priority": "No priority",
+        "Assignee": "medhat@lunedata.io",
+        "Labels": "QA",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6131",
+        "Title": "[QA][Re-testing] : Chatbot loading status",
+        "Status": "Done",
+        "Estimate": "1.0",
+        "Priority": "Medium",
+        "Assignee": "medhat@lunedata.io",
+        "Labels": "QA",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6130",
+        "Title": "[QA][Android] : Chatbot Loading status",
+        "Status": "Done",
+        "Estimate": "2.0",
+        "Priority": "Medium",
+        "Assignee": "medhat@lunedata.io",
+        "Labels": "Android, Mobile, QA",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6128",
+        "Title": "[QA][Android] : Budget Category Limit Input Enhancement",
+        "Status": "Done",
+        "Estimate": "2.0",
+        "Priority": "Low",
+        "Assignee": "medhat@lunedata.io",
+        "Labels": "Android, Mobile, QA",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-5943",
+        "Title": "Lunehub: Integrate Flipt feature flag client",
+        "Status": "Done",
+        "Estimate": "2.0",
+        "Priority": "No priority",
+        "Assignee": "touha@lunedata.io",
+        "Labels": "FE",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-5928",
+        "Title": "Task 4.1 \u2014 Runbook and rollout/rollback",
+        "Status": "Done",
+        "Estimate": "2.0",
+        "Priority": "No priority",
+        "Assignee": "eslam@lunedata.io",
+        "Labels": "BE, Task",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-5930",
+        "Title": "Task 4.2 \u2014 Integration tests for GET `/metrics`",
+        "Status": "Done",
+        "Estimate": "2.0",
+        "Priority": "No priority",
+        "Assignee": "eslam@lunedata.io",
+        "Labels": "BE, Task",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6110",
+        "Title": "Use label-based scraping for /metrics of puma and sidekiq pods.",
+        "Status": "Done",
+        "Estimate": "1.0",
+        "Priority": "High",
+        "Assignee": "ibrahim@lunedata.io",
+        "Labels": "Devops",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6120",
+        "Title": "DS: Link Cluster to an existing Brand",
+        "Status": "Done",
+        "Estimate": "2.0",
+        "Priority": "No priority",
+        "Assignee": "dmitry@lunedata.io",
+        "Labels": "BE",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6124",
+        "Title": "Add deny rule (Exact /metrics & PathPrefix /metrics/)",
+        "Status": "Done",
+        "Estimate": "1.0",
+        "Priority": "High",
+        "Assignee": "ibrahim@lunedata.io",
+        "Labels": "Devops",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6114",
+        "Title": "[ prod temp] Branded transactions showed as Miscellaneous",
+        "Status": "Done",
+        "Estimate": "",
+        "Priority": "No priority",
+        "Assignee": "eslam@lunedata.io",
+        "Labels": "BE",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6123",
+        "Title": "[QA][ prod temp] Branded transactions showed as Miscellaneous",
+        "Status": "Done",
+        "Estimate": "1.0",
+        "Priority": "No priority",
+        "Assignee": "radwa@lunedata.io",
+        "Labels": "QA",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6060",
+        "Title": "Lunehub: remove nuxt-ui components from billing",
+        "Status": "Done",
+        "Estimate": "3.0",
+        "Priority": "No priority",
+        "Assignee": "amiyo@lunedata.io",
+        "Labels": "FE",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6083",
+        "Title": "Lunehub: refactor contact-us page",
+        "Status": "Done",
+        "Estimate": "1.0",
+        "Priority": "No priority",
+        "Assignee": "amiyo@lunedata.io",
+        "Labels": "FE",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6095",
+        "Title": "DS: Display clusters",
+        "Status": "Done",
+        "Estimate": "2.0",
+        "Priority": "No priority",
+        "Assignee": "dmitry@lunedata.io",
+        "Labels": "BE",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6116",
+        "Title": "Recreating Adib access to SDKs",
+        "Status": "Done",
+        "Estimate": "",
+        "Priority": "High",
+        "Assignee": "ibrahim@lunedata.io",
+        "Labels": "ADIB, Devops",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6109",
+        "Title": "[QA] check contact-us page",
+        "Status": "Done",
+        "Estimate": "1.0",
+        "Priority": "No priority",
+        "Assignee": "radwa@lunedata.io",
+        "Labels": "QA",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6113",
+        "Title": "[QA] billing check on UI on its state",
+        "Status": "Done",
+        "Estimate": "1.0",
+        "Priority": "No priority",
+        "Assignee": "radwa@lunedata.io",
+        "Labels": "QA",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6112",
+        "Title": "Manual Enrichment for file",
+        "Status": "Done",
+        "Estimate": "1.0",
+        "Priority": "High",
+        "Assignee": "mohamed.bakr@lunedata.io",
+        "Labels": "Devops",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6074",
+        "Title": "Deploy UAE Jenkins on Azure UAE K8s Cluster",
+        "Status": "Done",
+        "Estimate": "1.0",
+        "Priority": "High",
+        "Assignee": "mohamed.bakr@lunedata.io",
+        "Labels": "Devops",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6045",
+        "Title": "[QA][ETC] : LuneHub -> feature flags",
+        "Status": "Done",
+        "Estimate": "3.0",
+        "Priority": "No priority",
+        "Assignee": "medhat@lunedata.io",
+        "Labels": "QA",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-5978",
+        "Title": "Check CH & PG counts in all environments",
+        "Status": "Done",
+        "Estimate": "",
+        "Priority": "High",
+        "Assignee": "eslam@lunedata.io",
+        "Labels": "BE",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-5929",
+        "Title": "Task 3.3 \u2014 Unit tests for custom metrics",
+        "Status": "Done",
+        "Estimate": "2.0",
+        "Priority": "No priority",
+        "Assignee": "eslam@lunedata.io",
+        "Labels": "BE, Task",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-5914",
+        "Title": "Phase 3: Custom metrics (Step 3)",
+        "Status": "Done",
+        "Estimate": "",
+        "Priority": "No priority",
+        "Assignee": "eslam@lunedata.io",
+        "Labels": "BE",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-5912",
+        "Title": "Phase 1: Yabeda + Plugins + Grafana (Step 1)",
+        "Status": "Done",
+        "Estimate": "",
+        "Priority": "No priority",
+        "Assignee": "eslam@lunedata.io",
+        "Labels": "BE",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6100",
+        "Title": "Use FF client with Application metrics",
+        "Status": "Done",
+        "Estimate": "1.0",
+        "Priority": "No priority",
+        "Assignee": "eslam@lunedata.io",
+        "Labels": "",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6080",
+        "Title": "DS: Use DB record id for missing ref_id",
+        "Status": "Done",
+        "Estimate": "1.0",
+        "Priority": "No priority",
+        "Assignee": "dmitry@lunedata.io",
+        "Labels": "BE",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6106",
+        "Title": "Add BE Flipt keys to Azure Vault",
+        "Status": "Done",
+        "Estimate": "1.0",
+        "Priority": "No priority",
+        "Assignee": "dmitry@lunedata.io",
+        "Labels": "BE",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-5968",
+        "Title": "Chatbot some times displays raw JSON response instead of formatted message",
+        "Status": "Done",
+        "Estimate": "2.0",
+        "Priority": "Medium",
+        "Assignee": "ghufran@lunedata.io",
+        "Labels": "AI",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6005",
+        "Title": "[Flag] Settings Exp",
+        "Status": "Done",
+        "Estimate": "1.0",
+        "Priority": "No priority",
+        "Assignee": "amiyo@lunedata.io",
+        "Labels": "FE, Feature Flag",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6099",
+        "Title": "[QA]sanity check on settings page",
+        "Status": "Done",
+        "Estimate": "1.0",
+        "Priority": "No priority",
+        "Assignee": "radwa@lunedata.io",
+        "Labels": "QA",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-5860",
+        "Title": "[QA] Test Metered Billing ApIs",
+        "Status": "Done",
+        "Estimate": "3.0",
+        "Priority": "No priority",
+        "Assignee": "radwa@lunedata.io",
+        "Labels": "QA",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-5822",
+        "Title": "DS: Cluster unenriched descriptions",
+        "Status": "Done",
+        "Estimate": "8.0",
+        "Priority": "No priority",
+        "Assignee": "dmitry@lunedata.io",
+        "Labels": "BE",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6054",
+        "Title": "DS: Add PoC::ClusterDescriptionsJob",
+        "Status": "Done",
+        "Estimate": "2.0",
+        "Priority": "No priority",
+        "Assignee": "dmitry@lunedata.io",
+        "Labels": "BE",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6053",
+        "Title": "DS: Add PoC::Cluster model and update related models",
+        "Status": "Done",
+        "Estimate": "2.0",
+        "Priority": "No priority",
+        "Assignee": "dmitry@lunedata.io",
+        "Labels": "BE",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6052",
+        "Title": "DS: Implement PoC::ClusterDescriptions service",
+        "Status": "Done",
+        "Estimate": "2.0",
+        "Priority": "No priority",
+        "Assignee": "dmitry@lunedata.io",
+        "Labels": "BE",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6078",
+        "Title": "DS: Integrate Flipt",
+        "Status": "Done",
+        "Estimate": "2.0",
+        "Priority": "No priority",
+        "Assignee": "waleed@lunedata.io",
+        "Labels": "BE",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6025",
+        "Title": "LE: Remove `payment_service` and `carbon_emission` from Enrichment API V2 response",
+        "Status": "Done",
+        "Estimate": "2.0",
+        "Priority": "No priority",
+        "Assignee": "waleed@lunedata.io",
+        "Labels": "BE",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6048",
+        "Title": "[QA][Android] : Budget Category Limit Input Enhancement",
+        "Status": "Done",
+        "Estimate": "1.0",
+        "Priority": "No priority",
+        "Assignee": "radwa@lunedata.io",
+        "Labels": "QA",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6088",
+        "Title": "Establish Connection CH Uno DB to Kafka",
+        "Status": "Done",
+        "Estimate": "1.0",
+        "Priority": "High",
+        "Assignee": "mohamed.bakr@lunedata.io",
+        "Labels": "Devops",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6051",
+        "Title": "[iOS][Android][React Native] : React Native Native SDK Bridge Plugin (Android & iOS)",
+        "Status": "Done",
+        "Estimate": "5.0",
+        "Priority": "No priority",
+        "Assignee": "eslam.ali@lunedata.io",
+        "Labels": "Mobile",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6087",
+        "Title": "[QA][Android]Testing SDK on React Native Bridge Plugin",
+        "Status": "Done",
+        "Estimate": "1.0",
+        "Priority": "No priority",
+        "Assignee": "radwa@lunedata.io",
+        "Labels": "QA",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-5927",
+        "Title": "Task 3.2 \u2014 Grafana dashboard: Custom business metrics",
+        "Status": "Done",
+        "Estimate": "2.0",
+        "Priority": "No priority",
+        "Assignee": "eslam@lunedata.io",
+        "Labels": "BE, Task",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6043",
+        "Title": "Budget Category Limit Input Enhancement",
+        "Status": "Done",
+        "Estimate": "2.0",
+        "Priority": "No priority",
+        "Assignee": "eslam.ali@lunedata.io",
+        "Labels": "iOS, Mobile",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6082",
+        "Title": "[QA]Retesting Budget Category Limit Input Enhancement",
+        "Status": "Done",
+        "Estimate": "1.0",
+        "Priority": "No priority",
+        "Assignee": "radwa@lunedata.io",
+        "Labels": "QA",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6079",
+        "Title": "Input didn't accept decimal",
+        "Status": "Done",
+        "Estimate": "1.0",
+        "Priority": "No priority",
+        "Assignee": "eslam.ali@lunedata.io",
+        "Labels": "Mobile",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6077",
+        "Title": "Budget status message under categories didn't updated after adding input",
+        "Status": "Done",
+        "Estimate": "1.0",
+        "Priority": "No priority",
+        "Assignee": "eslam.ali@lunedata.io",
+        "Labels": "Mobile",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6076",
+        "Title": "No validation on numbers added from input",
+        "Status": "Done",
+        "Estimate": "1.0",
+        "Priority": "No priority",
+        "Assignee": "eslam.ali@lunedata.io",
+        "Labels": "Mobile",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6081",
+        "Title": "[QA][IOS]ReTesting React Native SDK",
+        "Status": "Done",
+        "Estimate": "1.0",
+        "Priority": "No priority",
+        "Assignee": "radwa@lunedata.io",
+        "Labels": "QA",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6075",
+        "Title": "Authorization token expired and didn't auto refresh",
+        "Status": "Done",
+        "Estimate": "1.0",
+        "Priority": "No priority",
+        "Assignee": "eslam.ali@lunedata.io",
+        "Labels": "Mobile",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6070",
+        "Title": "[QA][IOS]Testing SDK on React Native Bridge Plugin",
+        "Status": "Done",
+        "Estimate": "1.0",
+        "Priority": "No priority",
+        "Assignee": "radwa@lunedata.io",
+        "Labels": "QA",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6047",
+        "Title": "[QA][IOS]Budget Category Limit Input Enhancement",
+        "Status": "Done",
+        "Estimate": "1.0",
+        "Priority": "No priority",
+        "Assignee": "radwa@lunedata.io",
+        "Labels": "QA",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6055",
+        "Title": "LE: Integrate Flipt",
+        "Status": "Done",
+        "Estimate": "2.0",
+        "Priority": "No priority",
+        "Assignee": "waleed@lunedata.io",
+        "Labels": "BE",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6062",
+        "Title": "[QA][Regression] : Regression testing on Enrichment V2 - Internal DEV",
+        "Status": "Done",
+        "Estimate": "2.0",
+        "Priority": "No priority",
+        "Assignee": "radwa@lunedata.io",
+        "Labels": "QA",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6042",
+        "Title": "[QA][Regression] : Full testing for all Feedback cycles and workflows between mobile and AA",
+        "Status": "Done",
+        "Estimate": "3.0",
+        "Priority": "No priority",
+        "Assignee": "medhat@lunedata.io",
+        "Labels": "Mobile, QA",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6071",
+        "Title": "Provide All CBD Raw files to Label Team",
+        "Status": "Done",
+        "Estimate": "1.0",
+        "Priority": "High",
+        "Assignee": "mohamed.bakr@lunedata.io",
+        "Labels": "Devops",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6069",
+        "Title": "On-Call: Migrate UAE Uno Prod to Azure UAE K8s Cluster",
+        "Status": "Done",
+        "Estimate": "2.0",
+        "Priority": "High",
+        "Assignee": "mohamed.bakr@lunedata.io",
+        "Labels": "Devops",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6068",
+        "Title": "On-Call: Migrate UAE Uno Prod to BHR K8s Cluster",
+        "Status": "Done",
+        "Estimate": "2.0",
+        "Priority": "High",
+        "Assignee": "mohamed.bakr@lunedata.io",
+        "Labels": "Devops",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6056",
+        "Title": "Docs: Upate Feature Flag Handbook",
+        "Status": "Done",
+        "Estimate": "1.0",
+        "Priority": "No priority",
+        "Assignee": "waleed@lunedata.io",
+        "Labels": "BE",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-5926",
+        "Title": "Task 3.1 \u2014 Custom Yabeda metrics (insertion, Kafka)",
+        "Status": "Done",
+        "Estimate": "5.0",
+        "Priority": "No priority",
+        "Assignee": "eslam@lunedata.io",
+        "Labels": "BE, Task",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6064",
+        "Title": "[QA][prod][Regression] : Regression testing on Enrichment API",
+        "Status": "Done",
+        "Estimate": "1.0",
+        "Priority": "No priority",
+        "Assignee": "radwa@lunedata.io",
+        "Labels": "QA",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6013",
+        "Title": "[QA][ETC] : Metered Billing -> Update Webhook Handler to support multiple deployments",
+        "Status": "Done",
+        "Estimate": "2.0",
+        "Priority": "No priority",
+        "Assignee": "medhat@lunedata.io",
+        "Labels": "QA",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6012",
+        "Title": "[QA][WTC] : Metered Billing -> Update Webhook Handler to support multiple deployments",
+        "Status": "Done",
+        "Estimate": "1.0",
+        "Priority": "No priority",
+        "Assignee": "medhat@lunedata.io",
+        "Labels": "QA",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6046",
+        "Title": "[QA][WTC] : LuneHub -> feature flags",
+        "Status": "Done",
+        "Estimate": "2.0",
+        "Priority": "No priority",
+        "Assignee": "medhat@lunedata.io",
+        "Labels": "QA",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-5545",
+        "Title": "[QA][ETC] : 6. Billing APIs",
+        "Status": "Done",
+        "Estimate": "2.0",
+        "Priority": "No priority",
+        "Assignee": "medhat@lunedata.io",
+        "Labels": "QA",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-5870",
+        "Title": "LE: Drop nudges code",
+        "Status": "Done",
+        "Estimate": "2.0",
+        "Priority": "No priority",
+        "Assignee": "waleed@lunedata.io",
+        "Labels": "BE",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6014",
+        "Title": "[QA][LE][Regression] : Regression testing on Enrichment API",
+        "Status": "Done",
+        "Estimate": "2.0",
+        "Priority": "No priority",
+        "Assignee": "medhat@lunedata.io",
+        "Labels": "QA",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6015",
+        "Title": "[QA][LE][Regression] : Regression testing on Enrichment API\"Dev\"",
+        "Status": "Done",
+        "Estimate": "1.0",
+        "Priority": "No priority",
+        "Assignee": "radwa@lunedata.io",
+        "Labels": "QA",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-5908",
+        "Title": "Lunehub: Refactor Transaction Report Dialog to Shadcn",
+        "Status": "Done",
+        "Estimate": "3.0",
+        "Priority": "No priority",
+        "Assignee": "amiyo@lunedata.io",
+        "Labels": "FE",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6038",
+        "Title": "[QA][Retesting]Transaction Report Dialog after refactor",
+        "Status": "Done",
+        "Estimate": "1.0",
+        "Priority": "No priority",
+        "Assignee": "radwa@lunedata.io",
+        "Labels": "QA",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6037",
+        "Title": "Report details dialog cached with others",
+        "Status": "Done",
+        "Estimate": "",
+        "Priority": "No priority",
+        "Assignee": "amiyo@lunedata.io",
+        "Labels": "FE",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6035",
+        "Title": "Different color of dropdown type from figma",
+        "Status": "Done",
+        "Estimate": "",
+        "Priority": "No priority",
+        "Assignee": "amiyo@lunedata.io",
+        "Labels": "FE",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6162",
+        "Title": "[QA]`api/v3/analytics/categories/spend` returns nothing",
+        "Status": "Done",
+        "Estimate": "1.0",
+        "Priority": "Urgent",
+        "Assignee": "radwa@lunedata.io",
+        "Labels": "QA",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6152",
+        "Title": "[QA][ETC] : Have Arabic Brand Name in LH transactions view tab",
+        "Status": "Done",
+        "Estimate": "1.0",
+        "Priority": "High",
+        "Assignee": "medhat@lunedata.io",
+        "Labels": "QA",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6092",
+        "Title": "[QA][Android][Re-Testing] : Budget Category Limit Input Enhancement",
+        "Status": "Done",
+        "Estimate": "3.0",
+        "Priority": "Low",
+        "Assignee": "radwa@lunedata.io",
+        "Labels": "QA",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6140",
+        "Title": "UI Issues on charts for large words",
+        "Status": "Done",
+        "Estimate": "1.0",
+        "Priority": "High",
+        "Assignee": "eslam.ali@lunedata.io",
+        "Labels": "iOS, Mobile",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6089",
+        "Title": "crash when update budget with lower value than in categories",
+        "Status": "Done",
+        "Estimate": "1.0",
+        "Priority": "High",
+        "Assignee": "rana@lunedata.io",
+        "Labels": "Mobile",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6090",
+        "Title": "user can't add numbers like 784842",
+        "Status": "Done",
+        "Estimate": "1.0",
+        "Priority": "Low",
+        "Assignee": "rana@lunedata.io",
+        "Labels": "Mobile",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-6091",
+        "Title": "No validation on categories number added from input",
+        "Status": "Done",
+        "Estimate": "2.0",
+        "Priority": "Low",
+        "Assignee": "rana@lunedata.io",
+        "Labels": "Mobile",
+        "Cycle Name": "Cycle 44"
+    },
+    {
+        "ID": "TECH-5652",
+        "Title": "Feature-flag integration with BE services",
+        "Status": "Canceled",
+        "Estimate": "1.0",
+        "Priority": "No priority",
+        "Assignee": "ibrahim@lunedata.io",
+        "Labels": "Devops",
+        "Cycle Name": "Cycle 44"
+    }
+]
